@@ -1,0 +1,7 @@
+print("A")
+name=input("Please Enter your name:")
+print("-----------")
+address=input("Please enter your post code:")
+print("B")
+print("-------------------------------")
+print(name,"lives in",address)
